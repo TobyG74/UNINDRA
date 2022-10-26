@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="unindra.png" alt="banner"></a>
+ <img src="banner.png" alt="banner"></a>
 </p>
 <h3 align="center">UNINDRA</h3>
 
