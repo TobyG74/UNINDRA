@@ -15,4 +15,4 @@
 
 ## 🧐 Deskripsi <a name = "description"></a>
 
-Repository ini hanya untuk kumpulan materi dari UNINDRA.
+Repository ini hanya untuk kumpulan materi & latihan soal + jawaban dari UNINDRA.
