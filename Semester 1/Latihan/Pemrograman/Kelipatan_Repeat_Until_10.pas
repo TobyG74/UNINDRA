@@ -22,6 +22,6 @@ begin
             write(angka, ' ');
             angka := angka + poin_angka;
         end;
-    until angka > 100;
+    until angka > batas;
     readln;
 end.
