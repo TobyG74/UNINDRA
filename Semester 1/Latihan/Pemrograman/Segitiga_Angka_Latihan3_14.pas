@@ -1,21 +1,16 @@
-program segitiga_angka_lt3;
+program segitiga_angka_latihan3;
 uses crt;
-
-var i, j, angka: integer;
+var baris, kolom: byte;
 
 begin
-  clrscr;
-  writeln('=============================');
-  writeln('     SEGITIGA ANGKA LT 3     ');
-  writeln('=============================');
-  write('Input Angka : ');
-  readln(angka);
-  for i := angka downto 1 do
-  begin
-    for j := i downto 1 do
+    clrscr;
+    for baris := 5 downto 1 do
     begin
-      write(j, ' ');
+        for kolom := baris downto 1 do
+        begin
+            write(kolom, ' ');
+        end;
+        writeln;
     end;
-    writeln;
-  end;
+    readln;
 end.
