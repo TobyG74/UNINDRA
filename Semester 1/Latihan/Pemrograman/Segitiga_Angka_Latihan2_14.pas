@@ -1,22 +1,16 @@
-program segitiga_angka_lt2;
+program segitiga_angka_latihan2;
 uses crt;
+var baris, kolom: byte;
 
-var i, j, angka: integer;
-
-{ BERURUT KIRI KE KANAN }
 begin
     clrscr;
-    writeln('=============================');
-    writeln('     SEGITIGA ANGKA LT 2     ');
-    writeln('=============================');
-    write('Input Angka : ');
-    readln(angka);
-    for i := angka downto 1 do
+    for baris := 5 downto 1 do
     begin
-        for j := angka downto i do
+        for kolom := 5 downto baris do
         begin
-            write(j, ' ');
+            write(kolom, ' ');
         end;
         writeln;
     end;
+    readln;
 end.
