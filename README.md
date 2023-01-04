@@ -6,8 +6,8 @@
 
 <div align="center">
 
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/TobyG74/UNINDRA/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/TobyG74/UNINDRA/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/TobyG74/UNINDRA.svg)](https://github.com/TobyG74/UNINDRA/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/TobyG74/UNINDRA.svg)](https://github.com/TobyG74/UNINDRA/pulls)
 
 </div>
 
