@@ -13,7 +13,7 @@ begin
     begin
         hasil := b / a;
         sisa := b mod a;
-        writeln('14 : ', a, ' = ', round(hasil), ' sisa ', sisa);
+        writeln(b, ' : ', a, ' = ', round(hasil), ' sisa ', sisa);
         a := a + 1;
     end;
     readln;
