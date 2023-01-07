@@ -11,7 +11,7 @@ begin
     a := 1;
     while (a <= 10) do
     begin
-        hasil := b / a;
+        hasil := b div a;
         sisa := b mod a;
         writeln(b, ' : ', a, ' = ', round(hasil), ' sisa ', sisa);
         a := a + 1;
