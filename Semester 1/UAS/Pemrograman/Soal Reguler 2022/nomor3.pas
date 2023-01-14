@@ -6,7 +6,7 @@ var a, b, genap, ganjil: integer;
 begin
     clrscr;
     write('Input batasan angka : '); readln(b);
-    write('============================');
+    writeln('============================');
     write('Angka-angka yang merupakan kelipatan 3 atau 5 kurang dari 20 adalah : ');
     for a := 1 to b do
     begin

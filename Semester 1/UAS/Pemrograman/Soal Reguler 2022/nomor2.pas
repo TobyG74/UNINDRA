@@ -7,10 +7,7 @@ begin
     clrscr;     
     write('Input angka : '); readln(angka);
     hasil := 1 ;
-    for i := 1 to angka do
-    begin
-        hasil := hasil * i;
-    end;
+    for i := 1 to angka do hasil := hasil * i;
     writeln(angka, '! = ', hasil);
     readln;
 end.
