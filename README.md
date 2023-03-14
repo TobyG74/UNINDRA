@@ -13,6 +13,9 @@
 
 ---
 
-## 🧐 Deskripsi <a name = "description"></a>
+## 🧐 Deskripsi
 
-Repository ini hanya untuk kumpulan materi & latihan soal + jawaban dari UNINDRA.
+-   Repository ini hanya untuk kumpulan materi & latihan soal + jawaban dari UNINDRA.
+
+<br>
+<a href="https://drive.google.com/drive/folders/1OXTCf_3JciNZNeK8nJFuW-1b-hSWq6-Z?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/download materi-%2327b51d.svg?style=for-the-badge&logoColor=white" alt="link-materi"/></a>
