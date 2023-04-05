@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class RumusPersegiPanjang {
+class Rumus_Persegi_Panjang {
     public static void main (String[] args) {
         Scanner in = new Scanner(System.in);
         
