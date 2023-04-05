@@ -3,16 +3,10 @@ import java.util.Scanner;
 class Rumus_Luas_Segitiga {
     public static void main (String[] args) {
         Scanner in = new Scanner(System.in);
-   
-        System.out.println("================================");
-        System.out.println("Program Menghitung Luas Segitiga");
-        System.out.println("================================");
-       
-        // INPUT
-        System.out.print("Input Alas : ");
-        double alas = in.nextDouble();
-        System.out.print("Input Tinggi : ");
-        double tinggi = in.nextDouble();
+
+        // NILAI
+        int alas = 20;
+        int tinggi = 10;
        
         // OUTPUT
         double hasil = (alas * tinggi) / 2;
