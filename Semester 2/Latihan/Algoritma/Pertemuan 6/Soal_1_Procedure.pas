@@ -1,4 +1,4 @@
-program rumus_persegi;
+program rumus_luas_persegi;
 uses crt;
 
 var sisi, hasil: integer;
