@@ -14,7 +14,7 @@ begin
     clrscr;
     write('Masukkan Alas : '); readln(alas);
     write('Masukkan Tinggi : '); readln(tinggi);
-    // NILAI DARI ALAS & TINGGI DIPROSES OLEH FUNCTION
+    // MENYIMPAN NILAI FUNCTION hitung KE VARIABLE hasil
     hasil := hitung(alas, tinggi);
     writeln('Luas Segitiga : ', hasil:2:2);
     readln;
