@@ -4,7 +4,7 @@ uses crt;
 var alas, tinggi: integer;
     hasil: real;
 
-// MENYIMPAN HASIL DARI RUMUS KE VARIABLE RESULT
+// RETURN NILAI KE REAL
 function hitung(alas, tinggi: integer): real;
 begin
     hitung := (1/2) * alas * tinggi;
