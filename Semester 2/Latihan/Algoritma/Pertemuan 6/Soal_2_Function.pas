@@ -1,21 +1,23 @@
-program rumus_luas_segitiga;
+program menentukan_bulan;
 uses crt;
 
-var alas, tinggi: integer;
-    hasil: real;
+var bulan: array [1..12] of string = ('Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember');
+    angka: integer;
+    hasil: string;
 
-// RETURN NILAI KE REAL
-function hitung(alas, tinggi: integer): real;
+// RETURN NILAI KE STRING
+function tentukanBulan(b: integer): string;
 begin
-    hitung := (1/2) * alas * tinggi;
+    if (b > 12) then tentukanBulan := 'null'
+    else tentukanBulan := bulan[b];
 end;
 
 begin
     clrscr;
-    write('Masukkan Alas : '); readln(alas);
-    write('Masukkan Tinggi : '); readln(tinggi);
+    write('Masukkan Angka : '); readln(angka);
     // MENYIMPAN NILAI FUNCTION hitung KE VARIABLE hasil
-    hasil := hitung(alas, tinggi);
-    writeln('Luas Segitiga : ', hasil:2:2);
+    hasil := tentukanBulan(angka);
+    if (hasil = 'null') then writeln('Maksimal Angka 12!')
+    else writeln('Bulan ke-', angka, ' adalah ', hasil);
     readln;
 end.
