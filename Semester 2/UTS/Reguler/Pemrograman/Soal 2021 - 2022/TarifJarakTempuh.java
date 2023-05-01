@@ -20,13 +20,13 @@ public class TarifJarakTempuh {
     diskon = 0;
     total_tarif = 0;
     
-    if (jarak >= 0 && jarak < 10) {
+    if (jarak >= 0 && jarak <= 10) {
       if (jarak <= 4) {
         total_tarif = tarif_4km;
       } else {
         total_tarif = ((jarak - 4) * 2500) + tarif_4km - diskon;
       }
-    } else if (jarak >= 10 && jarak < 15) {
+    } else if (jarak >= 10 && jarak <= 15) {
       diskon = 2000;
       if (jarak <= 4) {
         total_tarif = tarif_4km;
