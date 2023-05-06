@@ -1,7 +1,7 @@
 program hitung_rata_rata1;
 
 uses crt;
-
+// janlup dipelajarin, jangan dicontek doang
 var
   bilangan: array[1..5] of integer;
   i, total: integer;
@@ -31,3 +31,4 @@ begin
 
   readln;
 end.
+
