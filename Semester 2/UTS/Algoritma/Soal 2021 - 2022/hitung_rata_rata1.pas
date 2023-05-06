@@ -8,24 +8,24 @@ var
   rata_rata: real;
 
 begin
-  // mengisi nilai pada Array 1 Dimensi
+  // input nilai
   for i := 1 to 5 do
   begin
     write('Masukkan bilangan ke-', i, ': ');
     readln(bilangan[i]);
   end;
 
-  // menghitung total nilai
+  // hitung total nilai
   total := 0;
   for i := 1 to 5 do
   begin
     total := total + bilangan[i];
   end;
 
-  // menghitung rata-rata nilai
+  // hitung rata-rata
   rata_rata := total / 5;
 
-  // menampilkan hasil perhitungan
+  // print hasil
   writeln('Total bilangan: ', total);
   writeln('Rata-rata bilangan: ', rata_rata:0:2);
 
