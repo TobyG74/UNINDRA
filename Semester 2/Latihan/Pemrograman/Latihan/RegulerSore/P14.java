@@ -62,7 +62,7 @@ public class P14 {
         System.out.print((j + i) % 2 == 0 ? "O" : "X");
         System.out.print(" ");
       }
-      System.out.println();
+      System.out.println(); 
     }
   }
 }
