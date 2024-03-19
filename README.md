@@ -28,10 +28,6 @@
 
 <br>
 
-<a href="https://drive.google.com/drive/folders/1OXTCf_3JciNZNeK8nJFuW-1b-hSWq6-Z?usp=share_link">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-79E64D?style=for-the-badge&logo=download&logoColor=white" width=2000></img>
-</a>
-
 ## 👥 Contributors
 -   [TobyG74](https://github.com/TobyG74) - Reguler
 -   [Ishafakhri](https://github.com/Ishafakhri) - Reguler
@@ -39,6 +35,19 @@
 -   [Ilmans](https://github.com/Ilmans) - Ekstensi 
 -   [Sepuh Rahmad](https://github.com/LilitCX) - Ekstensi
 -   [Firaz](https://github.com/firazputraa) - Ekstensi
+
+## 🔗 Link Download Materi (From Drive)
+
+<a href="https://drive.google.com/drive/folders/1OXTCf_3JciNZNeK8nJFuW-1b-hSWq6-Z?usp=share_link">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-79E64D?style=for-the-badge&logo=download&logoColor=white" width=2000></img>
+</a>
+
+## 🔗 Link Download Materi (From Directory Unindra)
+
+-   Gunakan VPN Untuk Mendownload Materi Pada Link Ini!
+<a href="http://49.128.184.230/lms_publik/matkul/P55201/">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-E4080A?style=for-the-badge&logo=download&logoColor=white" width=2000></img>
+</a>
 
 ## 📑 Bookmark Link Materi
 -   SEMESTER 1
@@ -87,4 +96,29 @@
     -   [Statistika Lanjut](https://drive.google.com/drive/folders/1LM2nzsqQN0PF0VZVEeefs4v74w-wlYD6?usp=drive_link)
     -   [Teori Bahasa Automata](https://drive.google.com/drive/folders/1nr2LKiJqt3uS5Sg0_AHlS3UlDe1eaEbZ?usp=drive_link)
 -   SEMESTER 6
+    -   [Penulisan Ilmiah](https://drive.google.com/drive/folders/1tfYjwRhm56jtulc5nwTvEZPspxqfEteb?usp=drive_link)
+    -   [Penambangan Data](https://drive.google.com/drive/folders/1K66bkPMDyarHGOX7mxeyUqvC1xHf5cNj?usp=drive_link)
+    -   [Pemrograman Web Lanjut](https://drive.google.com/drive/folders/1UjHC-QQxqu6xth0l5F7IVN0P5eNH4UC_?usp=drive_link)
+    -   [Pemrograman Visual](https://drive.google.com/drive/folders/1teJsh2xJHfnRZRllfwCdsSgyxxIfsMPv?usp=drive_link)
+    -   [Interaksi Manusia dan Komputer](https://drive.google.com/drive/folders/18NPwrx6sKp7JYAn660bv6wlK_sxv5bj9?usp=drive_link)
+    -   [Aplikasi Kewirausahaan](https://drive.google.com/drive/folders/17Kohv-h3inFvKIak3gaHtGVZY8ed9dnl?usp=drive_link)
+    -   [Akhlak dan Etika](https://drive.google.com/drive/folders/1VTZVE8JqIYJd6L336NUln3pfeNvDkoDU?usp=drive_link)
+    -   [Teknik Kompilasi](https://drive.google.com/drive/folders/18sDn9MGwUmH9bq6OfeKPC5QOwdq_QIz5?usp=drive_link)
 -   SEMESTER 7
+    -   [Aplikasi Jaringan](https://drive.google.com/drive/folders/1oQeAeW-9kfDoFjLaywgGeflR3mBMQq5j?usp=drive_link)
+    -   [E-Commerce](https://drive.google.com/drive/folders/1V6yjTm9qvSMmSVFDkswAQpTKbqrR-E9Y?usp=drive_link)
+    -   [Etika Profesi](https://drive.google.com/drive/folders/1m--2j3FD_lholFx9SaST2yK0qtI-Ll97?usp=drive_link)
+    -   [Filsafat Ilmu](https://drive.google.com/drive/folders/1tAjDd19661zWF_gbnS3tAg_7sZ9jyQrC?usp=drive_link)
+    -   [Keamanan Komputer](https://drive.google.com/drive/folders/1v3s_qRhoN8yuMMzwKsBeaG0h7JjKT09O?usp=drive_link)
+    -   [Komputer Grafik](https://drive.google.com/drive/folders/1F2nLFXwm7KWQ_qlQF8otBjH6-xlEUgXM?usp=drive_link)
+    -   [Rekayasa Perangkat Lunak](https://drive.google.com/drive/folders/1KF9GNHMdPeyM5xHA7kA4MpkofCEzenZU?usp=drive_link)
+    -   [Riset Operasional](https://drive.google.com/drive/folders/1pux2_G8YamKagnTtOQqQcRj35CYwQ9qJ?usp=drive_link)
+    -   [Sistem Berbasis Pengetahuan](https://drive.google.com/drive/folders/1KjPRFODhdDCMM-pUL6xDziteGhbOC41o?usp=drive_link)
+-   SEMESTER 8
+    -   [Analisa dan Perancangan Sistem Informasi](https://drive.google.com/drive/folders/1cgHVWF7okCqZnJfulhs0II5HHs4I6exc?usp=drive_link)
+    -   [Jaringan Syaraf Tiruan](https://drive.google.com/drive/folders/1PNC6p12nDGp1DFI8AGdsxQMfBBTxWpIp?usp=drive_link)
+    -   [Kuliah Kerja Praktek](https://drive.google.com/drive/folders/1sJPg-VCNmDQJs4lrT-xg-h8qI3SULH8t?usp=drive_link)
+    -   [Multimedia](https://drive.google.com/drive/folders/1Fqf8gI0nREWM7BzZgogw-2wh5ri5a5_V?usp=drive_link)
+    -   [Pengolahan Citra](https://drive.google.com/drive/folders/12hnRsshk64p1cW6VOqQhKYE926jqSbSM?usp=drive_link)
+    -   [Teknik Simulasi](https://drive.google.com/drive/folders/172rcZEgECaHd1AjI2j2xI-8z4njPF2Le?usp=drive_link)
+    -   [Tugas Akhir](https://drive.google.com/drive/folders/1NDdLlEnUhYdIMiqLyWh3SRsagpMMYWXX?usp=drive_link)
