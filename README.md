@@ -81,7 +81,7 @@
     -   [Ilmu Sosial dan Budaya](https://drive.google.com/drive/u/1/folders/12Qkyq17hH-P-F2CAxSk4FFxnlByVIzzc)
     -   [Kecakapan Antar Personal (Interpersonal Skill)](https://drive.google.com/drive/folders/18-7-H8I1dd39DNpcGoQna2xbPMKLzmTz?usp=drive_link)
     -   [Kewirausahaan](https://drive.google.com/drive/folders/1u8cDl4WD2sVuwA3DLe-ZbRvJqtNW9KZb?usp=drive_link)
-    -   [Pemrograman Berorientasi Objek](https://drive.google.com/drive/folders/16B-t17mpA-YH8AORL82rkVmgTo0YcjBL?usp=drive_link)
+    -   [Pemrograman Berorientasi Objek](https://drive.google.com/drive/folders/1-JLOPo69t45-F_EnQQVRIzZpNIlWJAjP?usp=drive_link)
     -   [Pemrograman Web Dasar](https://drive.google.com/drive/folders/1V2gdo3iyegK50M59MIa0m0lOSYlIW4Mf?usp=drive_link)
     -   [Sistem Operasi](https://drive.google.com/drive/folders/1pk80-p4hjIqIXY4R6m0ZBP0N6H2LXMbu?usp=drive_link)
     -   [Statistika Lanjut](https://drive.google.com/drive/folders/1LM2nzsqQN0PF0VZVEeefs4v74w-wlYD6?usp=drive_link)
