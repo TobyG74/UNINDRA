@@ -27,7 +27,10 @@
 -   Mau ikut kontribusi?? Boleh...
 
 <br>
-<a href="https://drive.google.com/drive/folders/1OXTCf_3JciNZNeK8nJFuW-1b-hSWq6-Z?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/download materi-%2327b51d.svg?style=for-the-badge&logoColor=white" alt="link-materi"/></a>
+
+<a href="https://drive.google.com/drive/folders/1OXTCf_3JciNZNeK8nJFuW-1b-hSWq6-Z?usp=share_link">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Download-Materi-2b2b2b?style=for-the-badge&logo=download&logoColor=white" width=2000></img>
+</a>
 
 ## 👥 Contributors
 -   [TobyG74](https://github.com/TobyG74) - Reguler
