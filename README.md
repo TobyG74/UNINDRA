@@ -39,7 +39,7 @@
 
 ## 📑 Bookmark Link Materi
 -   SEMESTER 1
-  -   [Algoritma 1](https://drive.google.com/drive/u/1/folders/1jeY-oGD6nvYRJ3w141Z1Z2cdM6RfVhNm)
+  --   [Algoritma 1](https://drive.google.com/drive/u/1/folders/1jeY-oGD6nvYRJ3w141Z1Z2cdM6RfVhNm)
   -   [Bahasa Indonesia](https://drive.google.com/drive/u/1/folders/1SFG8ugLZcUoFSXwwvUjdASFI2NSctna9)
   -   [Bahasa Inggris 1](https://drive.google.com/drive/u/1/folders/166e5oSIdgWka2hlLtiGr-UWSWWFzivcC)
   -   [Kalkulus Dasar](https://drive.google.com/drive/u/1/folders/1LnOUE9_AgCWxzWi6Eh9F3lGEhQ6nVwXQ)
