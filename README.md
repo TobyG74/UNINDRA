@@ -44,7 +44,7 @@
 
 ## 🔗 Link Download Materi (From Directory Unindra)
 
--   Gunakan VPN Untuk Mendownload Materi Pada Link Ini!
+-   Gunakan VPN Untuk Mendownload Materi Pada Link Dibawah Ini!
 <a href="http://49.128.184.230/lms_publik/matkul/P55201/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-E4080A?style=for-the-badge&logo=download&logoColor=white" width=2000></img>
 </a>
