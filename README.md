@@ -29,10 +29,11 @@
 <br>
 
 ## 👥 Contributors
+
 -   [TobyG74](https://github.com/TobyG74) - Reguler
 -   [Ishafakhri](https://github.com/Ishafakhri) - Reguler
--   [Alfarobby27](https://github.com/Alfarobby27) - Ekstensi 
--   [Ilmans](https://github.com/Ilmans) - Ekstensi 
+-   [Alfarobby27](https://github.com/Alfarobby27) - Ekstensi
+-   [Ilmans](https://github.com/Ilmans) - Ekstensi
 -   [Sepuh Rahmad](https://github.com/LilitCX) - Ekstensi
 -   [Firaz](https://github.com/firazputraa) - Ekstensi
 
@@ -45,11 +46,12 @@
 ## 🔗 Link Download Materi (From Directory Unindra)
 
 -   Gunakan VPN Untuk Mendownload Materi Pada Link Dibawah Ini!
-<a href="http://49.128.184.230/lms_publik/matkul/P55201/">
+    <a href="http://49.128.184.230/lms_publik/matkul/P55201/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-E4080A?style=for-the-badge&logo=download&logoColor=white" width=2000></img>
-</a>
+    </a>
 
 ## 📑 Bookmark Link Materi
+
 -   SEMESTER 1
     -   [Algoritma 1](https://drive.google.com/drive/u/1/folders/1jeY-oGD6nvYRJ3w141Z1Z2cdM6RfVhNm)
     -   [Bahasa Indonesia](https://drive.google.com/drive/u/1/folders/1SFG8ugLZcUoFSXwwvUjdASFI2NSctna9)
@@ -59,6 +61,9 @@
     -   [Pemrograman 1](https://drive.google.com/drive/u/1/folders/1lg_mGpW5zBYtb2Qzqgrck_Zh9brnCgbl)
     -   [Pendidikan Agama Islam](https://drive.google.com/drive/u/1/folders/1-bZedb5fZxcE8Z6YNXd3XvdONDWOM71T)
     -   [Pendidikan Teknologi Informasi](https://drive.google.com/drive/u/1/folders/1Pq0oG9Vmc50pSOKVm_s6qSmNe0XnSyI6)
+    -   [Soal UAS](https://drive.google.com/drive/folders/1_lnvgJhFb4PFWWuqyLK0euEJYxKi6TXw?usp=drive_link)
+    -   [Soal UPM](https://drive.google.com/drive/folders/1a6FDXCuCzCvHk4EKeJ_02ZRZ5rEbga_7?usp=drive_link)
+    -   [Soal UTS](https://drive.google.com/drive/folders/1tQYXYT39XQMgBIYtIUPLhY1m93H_Ohk2?usp=drive_link)
 -   SEMESTER 2
     -   [Algoritma 2](https://drive.google.com/drive/u/1/folders/1QOTJI34RB5umTElSbGoC8Lrf3asIr43J)
     -   [Bahasa Inggris 2](https://drive.google.com/drive/u/1/folders/1vYiTfizX6pUo-7Qtatn_Zx7vISMFAsjt)
@@ -68,6 +73,10 @@
     -   [Logika Matematika](https://drive.google.com/drive/u/1/folders/1WcxvKgP1nKIL3tQRXdOkiewiMGjk3bI0)
     -   [Pemrograman](https://drive.google.com/drive/u/1/folders/1huEOx8otyD75nVZgeQLo1_PpPZ_BtlKd)
     -   [Sistem Digital](https://drive.google.com/drive/u/1/folders/1-5uoafPiOaPSus9PlzhKEqybT4IbSQRv)
+    -   [Soal UAP](https://drive.google.com/drive/folders/1Hbl0c-R0ZtW13PF014P-8LII1Mb0Zbru?usp=drive_link)
+    -   [Soal UAS](https://drive.google.com/drive/folders/1oRjvW_cuiHfXdMxZoZnRW4pYcmGft3UP?usp=drive_link)
+    -   [Soal UPM](https://drive.google.com/drive/folders/1zLILKJEkVOkRS3fwxSTbpkms0I4sUEt7?usp=drive_link)
+    -   [Soal UTS](https://drive.google.com/drive/folders/19Kd0YWPeS_UD9di_rTsUvTiEG7LkEje1?usp=drive_link)
 -   SEMESTER 3
     -   [Fisika Gerak](https://drive.google.com/drive/u/1/folders/1Wr7K-grDrki6YLcFwP_WSrOdmFn5me8r)
     -   [Jaringan Komputer](https://drive.google.com/drive/folders/1LQ5yxWUM55bPpecgPM_t0xyFBQ18QTrR?usp=drive_link)
@@ -77,6 +86,9 @@
     -   [Struktur Data](https://drive.google.com/drive/folders/1RiSne3YRkLKGtn0w2pYVYUrapVXn3plJ?usp=drive_link)
     -   [Statistika Dasar](https://drive.google.com/drive/folders/1RTWRxevLk5dOcFcl-R5eKVfbtSqdqYVC?usp=drive_link)
     -   [Sistem Informasi](https://drive.google.com/drive/folders/1r-NAFPYh04BGWUJe55K3Yz6lxB1yOGIb?usp=drive_link)
+    -   [Soal UTS](https://drive.google.com/drive/folders/1oNApEBNoL9SjGfVXBK1JIDPqPgJ8QG29?usp=drive_link)
+    -   [Soal UPM](https://drive.google.com/drive/folders/10_SifU-N0-2PPvWL3Ky6pOzwakp7VlHe?usp=drive_link)
+    -   [Soal UAS](https://drive.google.com/drive/u/1/folders/1bGzbD2MypsMv8sQ1Uq_JlTW11hc22pUr)
 -   SEMESTER 4
     -   [Aljabar Linier dan Matrik](https://drive.google.com/drive/u/1/folders/10uuBfBXMPzIUZ5OWogbsi8BbdPFtruTL)
     -   [Arsitektur dan Organisasi Komputer](https://drive.google.com/drive/folders/1Z1ev4-y4UMq7KL_lPEQPLE75XxbtrTAP?usp=drive_link)
@@ -86,6 +98,8 @@
     -   [Praktikum Sistem Basis Data](https://drive.google.com/drive/folders/1rwFXylVCWkQxdebAn3XSxhKGMVY8Q-_U?usp=drive_link)
     -   [Sistem Basis Data](https://drive.google.com/drive/u/1/folders/1ugO0CwMnOEdPvxtwXG-f43yWpU_IGcBk)
     -   [Sejarah Pendidikan dan PGRI](https://drive.google.com/drive/u/1/folders/1487DgRonHgE98dGKmc1DoKCCpSedkfyN)
+    -   [Soal UTS](https://drive.google.com/drive/u/1/folders/14ayetE9mS90tZmVbQlQlukP0lLC7g3cp)
+    -   [Soal UAP](https://drive.google.com/drive/u/1/folders/19_hzBbSk2QHaStSmBbO5uEAy90M0nys7)
 -   SEMESTER 5
     -   [Ilmu Sosial dan Budaya](https://drive.google.com/drive/u/1/folders/12Qkyq17hH-P-F2CAxSk4FFxnlByVIzzc)
     -   [Kecakapan Antar Personal (Interpersonal Skill)](https://drive.google.com/drive/folders/18-7-H8I1dd39DNpcGoQna2xbPMKLzmTz?usp=drive_link)
