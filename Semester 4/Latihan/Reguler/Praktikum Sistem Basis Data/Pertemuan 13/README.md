@@ -8,6 +8,8 @@ CREATE DATABASE Penjualan;
 
 ### Aktifkan database penjualan, kemudian buat tabel pelanggan dan order
 
+[KLIK DISINI UNTUK MELIHAT SOAL](https://docs.google.com/presentation/d/1uJabBw_gWTJLXq_6YN2I5QoK4dc3ghy7/edit#slide=id.p15)
+
 ```sql
 USE Penjualan;
 

@@ -4,6 +4,8 @@
 
 # Latihan 2 Pertemuan 12
 
+[KLIK DISINI UNTUK MELIHAT SOAL](https://docs.google.com/presentation/d/1K35RGmI60-m8qfCUme7vTEk2cht3k-B8/edit#slide=id.p10)
+
 1. Buat Database dengan Nama Anda!
 
 ```sql

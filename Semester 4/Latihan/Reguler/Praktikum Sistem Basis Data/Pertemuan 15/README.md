@@ -1,5 +1,7 @@
 # Latihan Pertemuan 15
 
+[KLIK DISINI UNTUK MELIHAT SOAL](https://docs.google.com/presentation/d/1ntYIdRyS6xWy6sTWvr-J4r92eRU99-ZY/edit#slide=id.p10)
+
 ### Buatlah tabel Karyawan dan Departemen!
 
 -   Karyawan
