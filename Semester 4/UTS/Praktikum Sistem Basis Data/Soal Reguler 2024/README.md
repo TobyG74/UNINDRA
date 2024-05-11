@@ -16,6 +16,15 @@ CREATE DATABASE Tobi_Saputra_612;
 USE Tobi_Saputra_612;
 ```
 
+-   Tabel Barang
+
+```sql
+CREATE TABLE Barang (
+Kd_barang VARCHAR(10) PRIMARY KEY,
+Nama_barang VARCHAR(25),
+Harga INT);
+```
+
 -   Tabel Transaksi
 
 ```sql
@@ -26,15 +35,6 @@ Kd_barang VARCHAR(10),
 Quantity INT,
 Jumlah INT,
 FOREIGN KEY (Kd_barang) REFERENCES Barang(Kd_barang));
-```
-
--   Tabel Barang
-
-```sql
-CREATE TABLE Barang (
-Kd_barang VARCHAR(10) PRIMARY KEY,
-Nama_barang VARCHAR(25),
-Harga INT);
 ```
 
 -   Memasukkan data ke dalam tabel Transaksi
