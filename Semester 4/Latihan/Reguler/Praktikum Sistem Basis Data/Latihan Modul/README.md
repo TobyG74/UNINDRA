@@ -72,8 +72,14 @@ RENAME TABLE Mahasiswa TO mhs;
 
 10. Rubahlah database Latihan1 menjadi database Latihan!
 
+-   Ini Error karena tidak bisa merename database di MySQL
+-   Kamu hanya bisa membuat database baru dan menghapus database lama, seperti :
+
 ```sql
-ALTER DATABASE Latihan1 RENAME TO Latihan;
+CREATE DATABASE Latihan;
+RENAME TABLE Latihan1.mhs TO Latihan.mhs;
+DROP DATABASE Latihan1;
+USE Latihan;
 ```
 
 ## Latihan Halaman 19 - 20
