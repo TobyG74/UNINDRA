@@ -45,7 +45,7 @@ INSERT INTO MataKuliah VALUES
 ('KK021', 'Sistem Basis Data', 1),
 ('KK034', 'Manajemen Proyek', 3),
 ('KK077', 'Metode Numerik', 3),
-('KU122', 'Ilmu Budaya Dasar', 2),
+('KU122', 'Ilmu Budaya Dasar', 2);
 ```
 
 3. Tampilkan Informasi mahasiswa yang berjenis kelamin perempuan!
