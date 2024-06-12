@@ -14,17 +14,17 @@ CREATE DATABASE Penjualan;
 USE Penjualan;
 
 CREATE TABLE Pelanggan (
-P_ID INT PRIMARY KEY,
+P_Id INT PRIMARY KEY,
 Nama VARCHAR(30),
 Alamat VARCHAR(30),
 Kota VARCHAR(30)
 );
 
 CREATE TABLE Ordered (
-O_ID INT PRIMARY KEY,
+O_Id INT PRIMARY KEY,
 NoOrder VARCHAR(10),
-PID INT,
-FOREIGN KEY (PID) REFERENCES Pelanggan(P_ID)
+P_Id INT,
+FOREIGN KEY (P_Id) REFERENCES Pelanggan(P_Id)
 );
 ```
 
@@ -54,7 +54,7 @@ INSERT INTO Order VALUES
 SELECT Pelanggan.Nama, Ordered.NoOrder
 FROM Pelanggan
 INNER JOIN Ordered
-ON Pelanggan.P_ID = Ordered.PID
+ON Pelanggan.P_Id = Ordered.P_Id
 ORDER BY Pelanggan.Nama;
 ```
 
@@ -64,7 +64,7 @@ ORDER BY Pelanggan.Nama;
 SELECT Pelanggan.Nama, Ordered.NoOrder
 FROM Pelanggan
 LEFT JOIN Ordered
-ON Pelanggan.P_ID = Ordered.PID
+ON Pelanggan.P_Id = Ordered.P_Id
 ORDER BY Pelanggan.Nama;
 ```
 
@@ -74,6 +74,6 @@ ORDER BY Pelanggan.Nama;
 SELECT Pelanggan.Nama, Ordered.NoOrder
 FROM Pelanggan
 RIGHT JOIN Ordered
-ON Pelanggan.P_ID = Ordered.PID
+ON Pelanggan.P_Id = Ordered.P_Id
 ORDER BY Pelaanggan.Nama;
 ```
