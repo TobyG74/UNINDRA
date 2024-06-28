@@ -3,13 +3,13 @@
 ### BUAT DATABASE PENJUALAN
 
 ```sql
-CREATE DATABASE Penjualan;
+CREATE DATABASE Tobi_P13;
 ```
 
 - Menggunakan Database Penjualan
 
 ```sql
-USE Penjualan;
+USE Tobi_P13;
 ```
 
 ### Aktifkan database penjualan, kemudian buat tabel pelanggan dan order
@@ -27,8 +27,7 @@ Kota VARCHAR(30)
 CREATE TABLE Ordered (
 O_Id INT PRIMARY KEY,
 NoOrder VARCHAR(10),
-P_Id INT,
-FOREIGN KEY (P_Id) REFERENCES Pelanggan(P_Id)
+P_Id INT
 );
 ```
 
@@ -44,7 +43,7 @@ INSERT INTO Pelanggan VALUES
 -   Masukkan data ke dalam tabel Order
 
 ```sql
-INSERT INTO Order VALUES
+INSERT INTO Ordered VALUES
 (1, '77895', 3),
 (2, '44678', 3),
 (3, '22456', 1),
