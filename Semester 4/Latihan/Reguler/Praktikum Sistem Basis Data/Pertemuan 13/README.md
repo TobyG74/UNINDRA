@@ -78,5 +78,5 @@ SELECT Pelanggan.Nama, Ordered.NoOrder
 FROM Pelanggan
 RIGHT JOIN Ordered
 ON Pelanggan.P_Id = Ordered.P_Id
-ORDER BY Pelaanggan.Nama;
+ORDER BY Pelanggan.Nama;
 ```
