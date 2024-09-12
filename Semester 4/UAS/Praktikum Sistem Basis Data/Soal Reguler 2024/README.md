@@ -2,7 +2,7 @@
 
 ## Soal
 
-[Klik di sini](https://drive.google.com/drive/u/1/folders/1VIhQvMg7ksvDQRfd9_1u0N3A1ooN2x2H)
+[Klik di sini](https://drive.google.com/drive/u/1/folders/1VIhQvMg7ksvDQRfd9_1u0N3A1ooN2x2H) untuk melihat soal PSBD Reguler 2024
 
 ## Jawaban
 
@@ -22,7 +22,6 @@ CREATE TABLE Student (
     Nama_student VARCHAR(50),
     Usia INT
 );
-
 INSERT INTO Student VALUES
 ('STU71', 'Mercy', 16),
 ('STU72', 'Raffi', 17),
@@ -40,7 +39,6 @@ CREATE TABLE Course (
     Nama_Course VARCHAR(50),
     Harga_Course INT
 );
-
 INSERT INTO Course VALUES
 ('CRS11', 'Graphic Design', 650000),
 ('CRS22', 'Accounting', 600000),
@@ -61,7 +59,6 @@ CREATE TABLE Booking (
     FOREIGN KEY (Id_student) REFERENCES Student(Id_student),
     FOREIGN KEY (Id_course) REFERENCES Course(Id_Course)
 );
-
 INSERT INTO Booking VALUES
 ('STU74', 'CRS24', '2024-01-10', 1),
 ('STU73', 'CRS11', '2024-02-05', 3),

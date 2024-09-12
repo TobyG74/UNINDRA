@@ -1,8 +1,8 @@
-# UAS PSBD Sore
+# UAS PSBD Sore 2022
 
 ## Soal
 
-[Klik di sini](https://drive.google.com/drive/folders/1dE34oGGq-3si18GGL1awMpSe0htzGKnq?usp=drive_link)
+[Klik di sini](https://drive.google.com/drive/folders/1dE34oGGq-3si18GGL1awMpSe0htzGKnq?usp=drive_link) untuk melihat soal UAS PSBD Sore 2022
 
 ## Jawaban
 
@@ -22,7 +22,6 @@ CREATE TABLE KARYAWAN (
     NAMA VARCHAR(50),
     ALAMAT VARCHAR(50),
 );
-
 INSERT INTO KARYAWAN VALUES
 ('K1A023', 'Yusi Afriani', 'Bandung'),
 ('K1B011', 'Robi Chandra', 'Bogor'),
@@ -41,7 +40,6 @@ CREATE TABLE GAJI (
     TUNJANGAN INT,
     FOREIGN KEY (IDKARYAWAN) REFERENCES KARYAWAN(IDKARYAWAN)
 );
-
 INSERT INTO GAJI VALUES
 ('K1A023', '1A', 3500000, 1500000),
 ('K1B011', '1B', 3000000, 1000000),
@@ -58,7 +56,6 @@ CREATE TABLE STATUS (
     Status VARCHAR(20),
     FOREIGN KEY (GOLONGAN) REFERENCES GAJI(GOLONGAN)
 );
-
 INSERT INTO STATUS VALUES
 ('1A', 'Tetap'),
 ('2B', 'Honor');
