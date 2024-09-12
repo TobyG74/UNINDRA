@@ -40,15 +40,24 @@
 ## 🔗 Link Download Materi (From Drive)
 
 <a href="https://drive.google.com/drive/folders/1OXTCf_3JciNZNeK8nJFuW-1b-hSWq6-Z?usp=share_link">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-79E64D?style=for-the-badge&logo=download&logoColor=white" width=2000></img>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-79E64D?style=for-the-badge&logo=download&logoColor=white" width=500></img>
 </a>
 
 ## 🔗 Link Download Materi (From Directory Unindra)
 
 -   Gunakan VPN Untuk Mendownload Materi Pada Link Dibawah Ini!
-    <a href="http://49.128.184.230/lms_publik/matkul/P55201/">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-E4080A?style=for-the-badge&logo=download&logoColor=white" width=2000></img>
-    </a>
+
+### Link 1 (IP)
+
+<a href="http://49.128.184.230/lms_publik/matkul/P55201/">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-E4080A?style=for-the-badge&logo=download&logoColor=white" width=500></img>
+</a>
+
+### Link 2 (LMS)
+
+<a href="https://lms.unindra.ac.id/lms_publik/matkul/P55201/">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-E4080A?style=for-the-badge&logo=download&logoColor=white" width=500></img>
+</a>
 
 ## 📑 Bookmark Link Materi
 
