@@ -40,15 +40,24 @@
 ## 🔗 Link Download Materi (From Drive)
 
 <a href="https://drive.google.com/drive/folders/1OXTCf_3JciNZNeK8nJFuW-1b-hSWq6-Z?usp=share_link">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-79E64D?style=for-the-badge&logo=download&logoColor=white" width=2000></img>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-79E64D?style=for-the-badge&logo=download&logoColor=white" width=500></img>
 </a>
 
 ## 🔗 Link Download Materi (From Directory Unindra)
 
 -   Gunakan VPN Untuk Mendownload Materi Pada Link Dibawah Ini!
-    <a href="http://49.128.184.230/lms_publik/matkul/P55201/">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-E4080A?style=for-the-badge&logo=download&logoColor=white" width=2000></img>
-    </a>
+
+### Link 1 (IP)
+
+<a href="http://49.128.184.230/lms_publik/matkul/P55201/">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-E4080A?style=for-the-badge&logo=download&logoColor=white" width=500></img>
+</a>
+
+### Link 2 (LMS)
+
+<a href="https://lms.unindra.ac.id/lms_publik/matkul/P55201/">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Download Materi-E4080A?style=for-the-badge&logo=download&logoColor=white" width=500></img>
+</a>
 
 ## 📑 Bookmark Link Materi
 
@@ -96,7 +105,8 @@
     -   [Manajemen Proyek](https://drive.google.com/drive/folders/1RcdtU5OnDtZ-Ua72Z5gYKYy765dIMI-D?usp=drive_link)
     -   [Metode Numerik](https://drive.google.com/drive/folders/1FZw7DJ8LdNfbxNA4m75stROTTMlW1efx?usp=drive_link)
     -   [Praktikum Sistem Basis Data](https://drive.google.com/drive/folders/1rwFXylVCWkQxdebAn3XSxhKGMVY8Q-_U?usp=drive_link)
-    -   [Sistem Basis Data](https://drive.google.com/drive/u/1/folders/1ugO0CwMnOEdPvxtwXG-f43yWpU_IGcBk)
+    -   [Sistem Basis Data 1](https://drive.google.com/drive/folders/1ugO0CwMnOEdPvxtwXG-f43yWpU_IGcBk?usp=drive_link)
+    -   [Sistem Basis Data 2](https://drive.google.com/drive/folders/1A7IpEQXYNX3wUW-RUF0rNvKVnKMhD3RV?usp=drive_link)
     -   [Sejarah Pendidikan dan PGRI](https://drive.google.com/drive/u/1/folders/1487DgRonHgE98dGKmc1DoKCCpSedkfyN)
     -   [Soal UTS](https://drive.google.com/drive/u/1/folders/14ayetE9mS90tZmVbQlQlukP0lLC7g3cp)
     -   [Soal UAP](https://drive.google.com/drive/u/1/folders/19_hzBbSk2QHaStSmBbO5uEAy90M0nys7)

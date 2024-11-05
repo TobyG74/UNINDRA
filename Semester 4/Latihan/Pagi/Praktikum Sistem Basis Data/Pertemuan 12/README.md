@@ -9,7 +9,13 @@
 1. Buat Database dengan Nama Anda!
 
 ```sql
-CREATE DATABASE Tobi_Saputra;
+CREATE DATABASE Tobi_P12;
+```
+
+- Gunakan Database
+
+```sql
+USE Tobi_P12;
 ```
 
 2. Silahkan buat beberapa tabel database sesuai kreasi anda, kemudian tampilkan beberapa record, sesuai field yang anda buat sendiri, selamat berkreasi !!!

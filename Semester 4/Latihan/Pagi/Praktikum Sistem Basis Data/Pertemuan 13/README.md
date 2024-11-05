@@ -3,7 +3,13 @@
 ### BUAT DATABASE PENJUALAN
 
 ```sql
-CREATE DATABASE Penjualan;
+CREATE DATABASE Tobi_P13;
+```
+
+- Menggunakan Database Penjualan
+
+```sql
+USE Tobi_P13;
 ```
 
 ### Aktifkan database penjualan, kemudian buat tabel pelanggan dan order
@@ -11,20 +17,17 @@ CREATE DATABASE Penjualan;
 [KLIK DISINI UNTUK MELIHAT SOAL](https://docs.google.com/presentation/d/1uJabBw_gWTJLXq_6YN2I5QoK4dc3ghy7/edit#slide=id.p15)
 
 ```sql
-USE Penjualan;
-
 CREATE TABLE Pelanggan (
-P_ID INT PRIMARY KEY,
+P_Id INT PRIMARY KEY,
 Nama VARCHAR(30),
 Alamat VARCHAR(30),
 Kota VARCHAR(30)
 );
 
 CREATE TABLE Ordered (
-O_ID INT PRIMARY KEY,
+O_Id INT PRIMARY KEY,
 NoOrder VARCHAR(10),
-PID INT,
-FOREIGN KEY (PID) REFERENCES Pelanggan(P_ID)
+P_Id INT
 );
 ```
 
@@ -40,7 +43,7 @@ INSERT INTO Pelanggan VALUES
 -   Masukkan data ke dalam tabel Order
 
 ```sql
-INSERT INTO Order VALUES
+INSERT INTO Ordered VALUES
 (1, '77895', 3),
 (2, '44678', 3),
 (3, '22456', 1),
@@ -54,7 +57,7 @@ INSERT INTO Order VALUES
 SELECT Pelanggan.Nama, Ordered.NoOrder
 FROM Pelanggan
 INNER JOIN Ordered
-ON Pelanggan.P_ID = Ordered.PID
+ON Pelanggan.P_Id = Ordered.P_Id
 ORDER BY Pelanggan.Nama;
 ```
 
@@ -64,7 +67,7 @@ ORDER BY Pelanggan.Nama;
 SELECT Pelanggan.Nama, Ordered.NoOrder
 FROM Pelanggan
 LEFT JOIN Ordered
-ON Pelanggan.P_ID = Ordered.PID
+ON Pelanggan.P_Id = Ordered.P_Id
 ORDER BY Pelanggan.Nama;
 ```
 
@@ -74,6 +77,6 @@ ORDER BY Pelanggan.Nama;
 SELECT Pelanggan.Nama, Ordered.NoOrder
 FROM Pelanggan
 RIGHT JOIN Ordered
-ON Pelanggan.P_ID = Ordered.PID
-ORDER BY Pelaanggan.Nama;
+ON Pelanggan.P_Id = Ordered.P_Id
+ORDER BY Pelanggan.Nama;
 ```
