@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Putri - UTS Nomor 2</title>
+        <style>
+            body {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                padding: 20px;
+            }
+
+            h3 {
+                text-align: center;
+                margin-bottom: 20px;
+            }
+
+            table {
+                border-collapse: collapse;
+            }
+
+            th,
+            td {
+                padding: 10px;
+                font-weight: normal;
+            }
+
+            th {
+                font-weight: bold;
+                text-align: center;
+            }
+
+            td {
+                text-align: left;
+            }
+
+            .nama {
+                background-color: #ffd1dc;
+            }
+
+            .kegiatan {
+                background-color: #c1ffd7;
+            }
+
+            .jadwal {
+                background-color: #e6e6fa;
+            }
+
+            .hari,
+            .jadwal {
+                font-weight: bold;
+            }
+
+            .hari {
+                background-color: #e6e6fa;
+            }
+
+            .jam {
+                background-color: #ffffd1;
+            }
+        </style>
+    </head>
+    <body>
+        <h3>Data Pendaftaran Kegiatan Ekstrakurikuler</h3>
+        <table border="1">
+            <tr>
+                <th rowspan="2" class="nama">Nama Siswa</th>
+                <th rowspan="2" class="kegiatan">Kegiatan</th>
+                <th colspan="2" class="jadwal">Jadwal</th>
+            </tr>
+            <tr>
+                <th class="hari">Hari</th>
+                <th class="jam">Jam</th>
+            </tr>
+            <tr>
+                <td rowspan="2" class="nama">Rina</td>
+                <td class="kegiatan">Basket</td>
+                <td class="hari">Senin</td>
+                <td class="jam">15:00 - 16:30</td>
+            </tr>
+            <tr>
+                <td class="kegiatan">Musik</td>
+                <td class="hari">Kamis</td>
+                <td class="jam">14:00 - 15:30</td>
+            </tr>
+            <tr>
+                <td class="nama">Dina</td>
+                <td class="kegiatan">Pramuka</td>
+                <td class="hari">Rabu</td>
+                <td class="jam">15:30 - 17:00</td>
+            </tr>
+        </table>
+    </body>
+</html>
