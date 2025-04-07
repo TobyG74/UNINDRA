@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Video dan Audio Player</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                max-width: 1200px;
+                margin: 20px auto;
+                padding: 0 20px;
+            }
+            h1 {
+                text-align: center;
+                color: #333;
+            }
+            .players-container {
+                display: flex;
+                gap: 20px;
+                flex-wrap: wrap;
+            }
+            .media-container {
+                flex: 1;
+                min-width: 300px;
+            }
+            video,
+            audio {
+                width: 100%;
+                margin: 10px 0;
+            }
+            h2 {
+                color: #333;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Media Player</h1>
+
+        <div class="players-container">
+            <div class="media-container">
+                <h2>Video Player</h2>
+                <video controls>
+                    <source
+                        src="https://tikcdn.io/ssstik/7488392144558755094"
+                        type="video/mp4"
+                    />
+                    Browser mu tidak mendukung video tag.
+                </video>
+            </div>
+
+            <div class="media-container">
+                <h2>Audio Player</h2>
+                <audio controls>
+                    <source
+                        src="https://tikcdn.io/ssstik/aHR0cHM6Ly92MTZtLnRpa3Rva2Nkbi11cy5jb20vOGIzNDA2M2IzNDE0NzQxM2FiOTA5OGRkNDk0MjU4ODUvNjdmNTVhMmMvdmlkZW8vdG9zL3VzZWFzdDJhL3Rvcy11c2Vhc3QyYS12ZS0yNzc0L280ZER2ZkdETEJaYlJPR3hqekJVRkM2YWY4NlFZZ1BlQVBqcDFJLz9hPTEyMzMmYnRpPU9VQnpPVGc3UUdvNk9qWkFMM0FqTFRBellDTXhORE5nJmNoPTAmY3I9MCZkcj0wJmVyPTAmbHI9ZGVmYXVsdCZjZD0wJTdDMCU3QzAlN0MwJmJyPTEyOCZidD02NCZmdD1HU0RyS0luejdUaGJYQTVPWHE4Wm1vJm1pbWVfdHlwZT1hdWRpb19tcDQmcXM9MyZyYz1aR1U1TjJSa1BHWTdhR2RwTTJSbk0wQnBNMlp2ZDNrNWNuVnJlRE16T0Rsa05FQXVORFl3WVdFdFhqVXhOV0F0WVdBMllTTnBialEwTW1SamIyVmdMUzFrWVMxemN3JTNEJTNEJnZ2cGw9MSZsPTIwMjUwNDAxMTcxNTMyMTY2Q0I3RDhBREY2NTEyMkNGMzcmYnRhZz1lMDAwOTAwMDAmc2hwPWQwNWIxNGJkJnNoY3A9LQ=="
+                        type="audio/ogg"
+                    />
+                    Browser mu tidak mendukung audio tag.
+                </audio>
+            </div>
+        </div>
+    </body>
+</html>
