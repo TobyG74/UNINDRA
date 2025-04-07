@@ -37,6 +37,29 @@
 -   [Sepuh Rahmad](https://github.com/LilitCX) - Ekstensi
 -   [Firaz](https://github.com/firazputraa) - Ekstensi
 
+## 🤝 Cara Kontribusi
+
+-   Fork repository ini
+-   Clone repository ini ke local
+
+```bash
+git clone https://github.com/TobyG74/UNINDRA.git
+```
+
+-   Buka folder yang sudah di clone di IDE
+-   Lakukan perubahan yang diinginkan
+-   Commit perubahan
+
+```bash
+git commit -m "feat: add new feature"
+```
+
+-   Push perubahan ke repository
+
+```bash
+git push origin master
+```
+
 ## 🔗 Link Download Materi (From Drive)
 
 <a href="https://drive.google.com/drive/folders/1OXTCf_3JciNZNeK8nJFuW-1b-hSWq6-Z?usp=share_link">
