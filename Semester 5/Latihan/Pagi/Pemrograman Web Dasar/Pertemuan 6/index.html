@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Pertemuan 6</title>
+        <style>
+            body {
+                margin: 0 auto;
+                width: 80%;
+            }
+
+            header {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding: 20px 0;
+            }
+
+            .judul {
+                text-align: center;
+                margin-left: 30px;
+            }
+
+            .text-center {
+                text-align: center;
+            }
+
+            .logo {
+                width: 100px;
+                height: 100px;
+            }
+
+            .line {
+                border: 3px solid rgb(117, 117, 117);
+                width: 100%;
+            }
+
+            .pendaftaran {
+                text-align: left;
+            }
+
+            td {
+                padding: 5px;
+                text-align: left;
+            }
+
+            .button {
+                text-align: center;
+                margin: 20px auto;
+            }
+
+            .kategori {
+                display: flex;
+                flex-direction: column;
+                gap: 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <img class="logo" src="./logo.png" alt="logo_unindra" />
+            <span class="judul">
+                <h1>PERPUSTAKAAN</h1>
+                <h2>Universitas Indraprasta PGRI</h2>
+            </span>
+        </header>
+
+        <hr class="line" />
+
+        <h2 class="text-center">Formulir Registrasi Anggota</h2>
+        <div class="pendaftaran">
+            <h3>Isikan Data Diri Anda:</h3>
+            <form action="">
+                <table>
+                    <tr>
+                        <td>NAMA</td>
+                        <td>:</td>
+                        <td>
+                            <input type="text" name="nama" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Jenis Kelamin</td>
+                        <td>:</td>
+                        <td>
+                            <input type="radio" name="jk" value="Laki-laki" />
+                            Laki-laki
+                            <input type="radio" name="jk" value="Perempuan" />
+                            Perempuan
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Tempat, Tgl Lahir</td>
+                        <td>:</td>
+                        <td>
+                            <input type="text" name="tempat" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>NPM</td>
+                        <td>:</td>
+                        <td>
+                            <input type="text" name="npm" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Fakultas</td>
+                        <td>:</td>
+                        <td>
+                            <input
+                                type="radio"
+                                name="fakultas"
+                                value="FTMIPA"
+                            />
+                            FTMIPA
+                            <input type="radio" name="fakultas" value="FIPPS" />
+                            FIPPS
+                            <input type="radio" name="fakultas" value="FBS" />
+                            FBS
+                            <input
+                                type="radio"
+                                name="fakultas"
+                                value="PASCA_SARJANA"
+                            />
+                            PASCA SARJANA
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Program Studi</td>
+                        <td>:</td>
+                        <td>
+                            <!-- Select Item -->
+                            <select name="prodi">
+                                <option value="">Pilih Program Studi</option>
+                                <option value="Informatika">Informatika</option>
+                                <option value="Teknik_Industri">
+                                    Teknik Industri
+                                </option>
+                                <option value="Pend_Biologi">
+                                    Pend. Biologi
+                                </option>
+                                <option value="Pend_Matematika">
+                                    Pend. Matematika
+                                </option>
+                                <option value="Pend_Fisika">
+                                    Pend. Fisika
+                                </option>
+                                <option value="Pend_Ekonomi">
+                                    Pend. Ekonomi
+                                </option>
+                                <option value="Pend_Sejarah">
+                                    Pend. Sejarah
+                                </option>
+                                <option value="Pend_Bhs_Indonesia">
+                                    Pend. Bhs Indonesia
+                                </option>
+                                <option value="Pend_Bhs_Inggris">
+                                    Pend. Bhs Inggris
+                                </option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Kategori Buku</td>
+                        <td>:</td>
+                        <td class="kategori">
+                            <div>
+                                <input
+                                    type="checkbox"
+                                    name="kategori"
+                                    value="Pendidikan"
+                                />
+                                <span>Pendidikan</span>
+                            </div>
+                            <div>
+                                <input
+                                    type="checkbox"
+                                    name="kategori"
+                                    value="Ilmu_Sosial"
+                                />
+                                <span>Ilmu Sosial</span>
+                            </div>
+                            <div>
+                                <input
+                                    type="checkbox"
+                                    name="kategori"
+                                    value="Ilmu_Alam"
+                                />
+                                <span>Ilmu Alam</span>
+                            </div>
+                            <div>
+                                <input
+                                    type="checkbox"
+                                    name="kategori"
+                                    value="Agama"
+                                />
+                                <span>Agama</span>
+                            </div>
+                            <div>
+                                <input
+                                    type="checkbox"
+                                    name="kategori"
+                                    value="Budaya"
+                                />
+                                <span>Budaya</span>
+                            </div>
+                            <div>
+                                <input
+                                    type="checkbox"
+                                    name="kategori"
+                                    value="Matematika_&_Sains"
+                                />
+                                <span>Matematika dan Sains</span>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                <div class="button">
+                    <input type="submit" value="DAFTAR" />
+                    <input type="reset" value="MUAT ULANG" />
+                </div>
+            </form>
+        </div>
+    </body>
+</html>

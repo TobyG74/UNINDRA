@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Pertemuan 5</title>
+        <style>
+            body {
+                margin: 0 auto;
+                width: 80%;
+            }
+
+            header {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding: 20px 0;
+            }
+
+            .logo {
+                margin-right: 30px;
+                width: 100px;
+                height: 100px;
+            }
+
+            .text-center {
+                text-align: center;
+            }
+
+            .line {
+                border: 3px solid blue;
+                width: 100%;
+            }
+
+            .biodata-mahasiswa {
+                width: fit-content;
+                margin: 20px auto;
+                text-align: center;
+            }
+
+            td {
+                padding: 5px;
+                text-align: left;
+            }
+
+            .button {
+                text-align: center;
+                margin: 20px auto;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <img class="logo" src="./logo-unindra.png" alt="logo_unindra" />
+            <span class="text-center">
+                <h2>UNIVERSITAS INDRAPRASTA PGRI</h2>
+                <h2>(UNINDRA)</h2>
+                <h3>
+                    <i>Jl. Nangka No.58 Tanjung Barat - Jaksel</i>
+                </h3>
+            </span>
+        </header>
+
+        <hr class="line" />
+
+        <div class="biodata-mahasiswa">
+            <h3>BIODATA MAHASISWA</h3>
+            <form action="">
+                <table>
+                    <tr>
+                        <td>NAMA</td>
+                        <td>:</td>
+                        <td>
+                            <input type="text" name="nama" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>ALAMAT</td>
+                        <td>:</td>
+                        <td>
+                            <textarea
+                                name="alamat"
+                                rows="3"
+                                cols="22"
+                            ></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>TANGGAL LAHIR</td>
+                        <td>:</td>
+                        <td>
+                            <input type="date" name="tanggal_lahir" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>TELP</td>
+                        <td>:</td>
+                        <td>
+                            <input type="text" name="telp" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>EMAIL</td>
+                        <td>:</td>
+                        <td>
+                            <input type="email" name="email" />
+                        </td>
+                    </tr>
+                </table>
+                <div class="button">
+                    <input type="submit" value="SIMPAN" />
+                    <input type="reset" value="BATAL" />
+                </div>
+            </form>
+        </div>
+    </body>
+</html>
