@@ -393,8 +393,8 @@ public class Main extends javax.swing.JFrame {
                 updatePs.setString(7, inputKodeAlat.getText().toUpperCase()); // Primary Key
                 updatePs.executeUpdate();
                 loadDataTable();
-                clearAllInput();
                 JOptionPane.showMessageDialog(null, "Data Dengan Kode : " + inputKodeAlat.getText().toUpperCase() + " Berhasil Di Update!");
+                clearAllInput();
             } else {
                 JOptionPane.showMessageDialog(null, "Data Alat Dengan Kode : " + inputKodeAlat.getText().toUpperCase() + " Tidak Terdaftar!");
             }
@@ -428,8 +428,8 @@ public class Main extends javax.swing.JFrame {
                 insertPs.setString(7, inputStokAlat.getText());
                 insertPs.executeUpdate();
                 loadDataTable();
-                clearAllInput();
                 JOptionPane.showMessageDialog(null, "Data Dengan Kode : " + inputKodeAlat.getText().toUpperCase() + " Berhasil Di Simpan!");
+                clearAllInput();
             }
         } catch (Exception e) {
             JOptionPane.showMessageDialog(null, "Kesalahan Saat Pencarian Database :\n" + e.getMessage());
@@ -452,8 +452,8 @@ public class Main extends javax.swing.JFrame {
                 deletePs.setString(1, inputKodeAlat.getText().toUpperCase()); // Primary Key
                 deletePs.executeUpdate();
                 loadDataTable();
-                clearAllInput();
                 JOptionPane.showMessageDialog(null, "Data Dengan Kode : " + inputKodeAlat.getText().toUpperCase() + " Berhasil Di Hapus!");
+                clearAllInput();
             } else {
                 JOptionPane.showMessageDialog(null, "Data Alat Dengan Kode : " + inputKodeAlat.getText().toUpperCase() + " Tidak Terdaftar!");
             }
