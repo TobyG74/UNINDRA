@@ -33,7 +33,6 @@
 -   [TobyG74](https://github.com/TobyG74) - Reguler
 -   [Ishafakhri](https://github.com/Ishafakhri) - Reguler
 -   [Alfarobby27](https://github.com/Alfarobby27) - Ekstensi
--   [Ilmans](https://github.com/Ilmans) - Ekstensi
 -   [Sepuh Rahmad](https://github.com/LilitCX) - Ekstensi
 -   [Firaz](https://github.com/firazputraa) - Ekstensi
 
