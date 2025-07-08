@@ -1,4 +1,6 @@
-# Latihan PWL Pertemuan 2
+# Latihan Pemrograman Web Lanjut - Pertemuan 2
+
+[Klik Disini](https://docs.google.com/presentation/d/1FLj-4y3QdAz-3g91KdhTur-e-UwVpQbt/edit?usp=drive_link&ouid=106423248853148034800&rtpof=true&sd=true) Untuk Melihat Materi & Latihan Pertemuan 2
 
 ## Cara Menjalankan Program
 
