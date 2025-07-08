@@ -28,6 +28,10 @@
 
 <br>
 
+## 👨‍💻 Open Joki Tugas
+
+-   Bagi yang mau joki tugas, project, dan lain-lain berbasis coding bisa hubungi [@ini.tobz](https://www.instagram.com/ini.tobz) di Instagram.
+
 ## 👥 Contributors
 
 -   [TobyG74](https://github.com/TobyG74) - Reguler
